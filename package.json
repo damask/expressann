@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/damask/expressann#readme",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "@babel/cli": "7.7.4",
     "@babel/core": "7.7.4",
     "@babel/node": "7.7.4",
